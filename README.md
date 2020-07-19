@@ -84,5 +84,3 @@ Projects done in the [Data Engineer Nanodegree by Udacity.com](https://www.udaci
 - Monitor data pipelines
 
 #### Project 4: Data Pipelines with Airflow
-
-![./images/certification.jpg](./images/certification.jpg)
